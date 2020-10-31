@@ -16,7 +16,7 @@
   - [Controls](#controls)
   - [Shop Menu](#shop-menu)
   - [Heads Up Display](#heads-up-display)
-- [Your Character](#characters)
+- [Your Character](#your-character)
   - [The Robo Dude](#the-robo-dude)
   - [The Hammer](#the-hammer)
 - [Enemies](#enemies)
@@ -113,3 +113,31 @@ There are two types of spiders the robo dude encounters in its forest. One of th
 The other spider that your robo dude sees in its forest is the turret spider. These spiders are not as lethal as the bomb spider, but can still be quite dangerous. These spiders are mounted with turrets that fire off explosive projectiles. These projectiles will damage your robo dude, but not as much as much as the bomb spiders. However, since these turret spiders are long range enemies, they don't have to get close to hurt you, so watch out!
 
 ![Turret Spider Reference](docs/img/Enemies/TurretSpiderReference.png)
+
+## Items
+
+### Time Fragments
+
+Each time your robo dude kills a spider, they drop a shiny crystal called a time fragment. These fragments can be used to upgrade your robo dude's basic stats, attacks and other things.
+
+![Time Fragment Reference](docs/img/Items/TimeFragmentReference.png)
+
+## Abilities
+
+### Whirlwind Attack
+
+When your robo dude performs a whirlwind attack, it will spin itself and swing its hammer at high speed, damaging all enemies around it in the process
+
+![Whirlwind Attack Reference](docs/gif/Abilities/WhirlwindAttackReference.gif)
+
+### Helicopter Attack
+
+For the helicopter attack, your robo dude will rapidly spin its wrist while holding its hammer. This attack damages all enemies directly in front of the robo dude.
+
+![Helicopter Attack Reference](docs/gif/Abilities/HelicopterAttackReference.gif)
+
+### Leap Attack
+
+The leap attack is most lethal attack in the robo dude's arsenal. It will propel itself into air towards its enemies and deliver a crushing swing to anything in its way.
+
+![Leap Attack Reference](docs/gif/Abilities/LeapAttackReference.gif)
