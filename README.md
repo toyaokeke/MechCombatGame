@@ -222,6 +222,6 @@ This project is released under the [Apache 2.0 License](LICENSE)
 
 ## Acknowledgements
 
-Thank you to Dev Squad Academy for providing me with tutorials to build this game :heart:
+Thank you to [Dev Squad Academy](https://www.devsquadacademy.com/) for providing me with tutorials to build this game :heart:
 
 Please also check these [additoinal resources](docs/RESOURCES.md) for more.
