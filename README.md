@@ -50,7 +50,7 @@ Welcome to my Mech Combat Game! This is my first attempt at game development usi
 - Linux
 - Linux (AArch64)
 
-**NOTE:** This is a desktop based game. It was not developed for gaming consoles or mobile devices. Attempting to play this game on unsupported devices will generate a warning from the game and may result in other unexpected errors.
+**IMPORTANT:** This is a desktop based game. It was not developed for gaming consoles or mobile devices. Attempting to play this game on unsupported devices will generate a warning from the game and may result in other unexpected errors.
 
 ## Environment
 
@@ -141,3 +141,38 @@ For the helicopter attack, your robo dude will rapidly spin its wrist while hold
 The leap attack is most lethal attack in the robo dude's arsenal. It will propel itself into air towards its enemies and deliver a crushing swing to anything in its way.
 
 ![Leap Attack Reference](docs/gif/Abilities/LeapAttackReference.gif)
+
+**IMPORTANT:** In order to run this project in development or package for production, you will need to create an Epic Games account and download the Unreal Engine on your machine. Please visit the [Unreal Engine](https://www.unrealengine.com/en-US/) for further instructions.
+
+**NOTE:** The instructions I am providing are based on MacOS. These steps may differ for Windows and Linux machines
+
+## Building the Development Environment
+
+1. Open the Epic Games Launcher and click `Launch Unreal Engine 4.x.x`. It should look like the following:
+
+![Epic Games Launcher Reference](docs/img/Development/EpicGamesLauncherReference.png)
+
+2. When the Unreal Project Browser shows, follow these steps:
+
+- Click the `More` button
+
+![Select More Reference](docs/img/Development/MoreButtonProjectReference.png)
+
+- Click `Browse`
+
+![Browse for Project Reference](docs/img/Development/BrowseButtonProjectReference.png)
+
+- Locate where you saved this repository on your machine and select `MechCombatGame.uproject`
+
+- Click `Open Project`
+
+**NOTE:** If you have opened this project before, you can also select it from your Recent Projects List
+
+3. This should now open the main level of the game. From here, you can browse through the blueprint code, skeletal meshes and all other assets using the Content Browser at the bottom
+
+![Content Browser Reference](docs/img/Development/ContentBrowserReference.png)
+
+![Blueprint Code Reference](docs/img/Development/BlueprintCodeReference.png)
+
+## Packaging the Game for Production
+
