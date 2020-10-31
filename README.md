@@ -1,2 +1,30 @@
-# mech-combat-game
+# Mech Combat Game
 
+![License](https://img.shields.io/github/license/toyaokeke/MechCombatGame)
+![Issues](https://img.shields.io/github/issues/toyaokeke/MechCombatGame)
+[![Built with](https://img.shields.io/badge/built%20with-ue4-blue)](https://www.unrealengine.com/en-US/)
+![Version](https://img.shields.io/badge/version-1.0.0-orange)
+
+# Table of Contents
+
+- [Introduction](#introduction)
+- [Supported Operating Systems](#supported-operating-systems)
+- [Environment](#environment)
+  - [Forest Environment](#forest-environment)
+  - [Player Base](#player-base)
+- [Characters](#characters)
+  - [The Robo Dude](#the-robo-dude)
+  - [Spiders](#spiders)
+- [Items](#items)
+  - [Time Fragments](#time-fragments)
+- [Abilities](#abilities)
+  - [Whirlwind Attack](#whirlwind-attack)
+  - [Helicopter Attack](#helicopter-attack)
+  - [#Leap Attack](#leap-attack)
+- [How to Play](#how-to-play)
+- [Controls](#controls)
+- [Building the Development Environment](#building-the-development-environment)
+- [Packaging the Game for Production](#packaging-the-game-for-production)
+- [Contributing Guidelines](#contributing-guidelines)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
