@@ -85,3 +85,31 @@ The shop menu is where you can upgrade your character when you approach the work
 The heads up display (HUD) is where you will see your character's health, stamina, attack energy and other things. The full view of the HUD is shown below:
 
 ![HUD Reference](docs/img/Instructions/HUDReference.png)
+
+## Your Character
+
+### The Robo Dude
+
+This is your character. It is a a humanoid robot that lives inside your forest environment and fends off mechanical spiders. It is not strong enough to destroy spiders with its hands, so it carries a sturdy hammer everywhere it goes in case it runs into spiders in the forest.
+
+![Robo Dude Reference](docs/img/Character/RoboDudeReference.png)
+
+### The Hammer
+
+This is your robo dude's hammer. It is very strong and durable and capable of smashing pesky mechanical spiders. Without this hammer, the robo dude would not survive in the forest environment with all these spiders lurking about.
+
+![Hammer Reference](docs/img/Character/HammerReference.png)
+
+## Enemies
+
+### Bomb Spiders
+
+There are two types of spiders the robo dude encounters in its forest. One of them is the bomb spider. These spiders are harmless from afar, but very dangerous if they get close. Once they spot their target and get close to them, the bombs mounted on them active and explode. If your robo dude is within the blast range of this explosion it can deal serious damage.
+
+![Bomb Spider Reference](docs/img/Enemies/BombSpiderReference.png)
+
+### Turret Spiders
+
+The other spider that your robo dude sees in its forest is the turret spider. These spiders are not as lethal as the bomb spider, but can still be quite dangerous. These spiders are mounted with turrets that fire off explosive projectiles. These projectiles will damage your robo dude, but not as much as much as the bomb spiders. However, since these turret spiders are long range enemies, they don't have to get close to hurt you, so watch out!
+
+![Turret Spider Reference](docs/img/Enemies/TurretSpiderReference.png)
