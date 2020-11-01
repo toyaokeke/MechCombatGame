@@ -1,4 +1,4 @@
-# :video_game::robot::wrench::hammer: Mech Combat Game :hammer::wrench::robot::video_game:
+# :video_game::robot::wrench::hammer:     Mech Combat Game      :hammer::wrench::robot::video_game:
 
 [![License](https://img.shields.io/github/license/toyaokeke/MechCombatGame)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/toyaokeke/MechCombatGame)](https://github.com/toyaokeke/MechCombatGame/issues)
