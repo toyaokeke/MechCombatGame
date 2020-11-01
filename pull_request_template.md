@@ -1,5 +1,5 @@
 # Pull Request Template
-**IMPORTANT:** More than anything else, ensure ***ALL*** of your code compiles and that your branch is up-to-date with the latest code in `main`
+**IMPORTANT:** More than anything else, ensure ***ALL*** of your code compiles with no errors and that your branch is up-to-date with the latest code in `main`
 
 ## What Issues is this PR closing?
 
