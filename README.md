@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/toyaokeke/MechCombatGame)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/toyaokeke/MechCombatGame)](https://github.com/toyaokeke/MechCombatGame/issues)
 [![Built with](https://img.shields.io/badge/built%20with-ue4-blue)](https://www.unrealengine.com/en-US/)
-[![Version](https://img.shields.io/badge/version-1.0.1-yellowgreen)](https://www.dropbox.com/s/lmxd86qttlguv6x/MechCombat.zip?dl=0)
+[![Version](https://img.shields.io/badge/version-1.0.1-yellowgreen)](https://www.dropbox.com/s/kx86iv0hgizocnq/MechCombatGame_v1.0.1.zip?dl=0)
 
 # Table of Contents
 
@@ -38,7 +38,7 @@
 
 ## Introduction
 
-Welcome to my Mech Combat Game! This is my first attempt at game development using Epic Game's [Unreal Engine](https://www.unrealengine.com/en-US/). It is a simple wave-based action arcade game where you control a robot and destrot mechanical spiders. If you would like to test play this game, you can either follow the instructions for [Packaging the Game for Production](#packaging-the-game-for-production) if you have the Unreal Engine, or downloading the executable from my [Dropbox link](https://www.dropbox.com/s/lmxd86qttlguv6x/MechCombat.zip?dl=0). If neither of those options worked, feel free to [create an issue](https://github.com/toyaokeke/MechCombatGame/issues) or [contact me directly](https://toyaokeke.github.io/#contact) for a copy of the game. I hope you enjoy playing! :smile:
+Welcome to my Mech Combat Game! This is my first attempt at game development using Epic Game's [Unreal Engine](https://www.unrealengine.com/en-US/). It is a simple wave-based action arcade game where you control a robot and destrot mechanical spiders. If you would like to test play this game, you can either follow the instructions for [Packaging the Game for Production](#packaging-the-game-for-production) if you have the Unreal Engine, or downloading the executable from my [Dropbox link](https://www.dropbox.com/s/kx86iv0hgizocnq/MechCombatGame_v1.0.1.zip?dl=0). If neither of those options worked, feel free to [create an issue](https://github.com/toyaokeke/MechCombatGame/issues) or [contact me directly](https://toyaokeke.github.io/#contact) for a copy of the game. I hope you enjoy playing! :smile:
 
 ![Main Menu Reference](docs/img/MainMenu/MainMenuReference.png)
 
