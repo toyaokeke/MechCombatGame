@@ -214,7 +214,7 @@ The leap attack is most lethal attack in the robo dude's arsenal. It will propel
 
 ## Contributing Guidelines
 
-More to come shortly
+TBA
 
 ## License
 
