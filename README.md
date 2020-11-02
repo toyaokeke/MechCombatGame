@@ -200,7 +200,7 @@ The leap attack is most lethal attack in the robo dude's arsenal. It will propel
 
 ![Project Packaging Reference](docs/img/Production/ProjectPackagingReference.png)
 
-7. Once you have completed the above steps, select `File/Package Project/<your OS>`. This process may take several minutes depending on the performance of your machine. Below is an example:
+7. Once you have completed the above steps, select `File > Package Project > [ YourPlatform ]`. This process may take several minutes depending on the performance of your machine. Below is an example:
 
 ![Package Project Reference](docs/img/Production/PackageProjectReference.png)
 
