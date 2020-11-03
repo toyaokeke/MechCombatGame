@@ -70,7 +70,7 @@ The main level where game exist is currently a forest environment. It is an open
 
 ### Player Base
 
-The player base is your home inside the forest environment. In your player base, this is where you will be able to upgrade your character's base stats, special attacks, and other things.
+The player base is your home inside the forest environment. In your player base, this is where you will be able to upgrade your character's base stats, special attacks, and other things. Careful not to stay here for too long; if the spiders sense you are in there, they can attack and destroy your base!
 
 ![Player Base Reference](docs/img/Level1/PlayerBaseReference.png)
 
@@ -118,7 +118,7 @@ There are two types of spiders the robo dude encounters in its forest. One of th
 
 ### Turret Spiders
 
-The other spider that your robo dude sees in its forest is the turret spider. These spiders are not as lethal as the bomb spider, but can still be quite dangerous. These spiders are mounted with turrets that fire off explosive projectiles. These projectiles will damage your robo dude, but not as much as much as the bomb spiders. However, since these turret spiders are long range enemies, they don't have to get close to hurt you, so watch out!
+The other spider that your robo dude sees in its forest is the turret spider. These spiders don't do as much damage as the bomb spider, but they are much more intelligent. These spiders are mounted with turrets that fire off explosive projectiles. The projectiles can damage your robo dude **AND** your base. Since these turret spiders are long range enemies, they don't have to get close to hurt you, so watch out!
 
 ![Turret Spider Reference](docs/img/Enemies/TurretSpiderReference.png)
 
