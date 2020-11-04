@@ -237,7 +237,7 @@ Please also check these [additoinal resources](docs/RESOURCES.md) for more.
 ## Version History
 
 
-- [v1.0.2 (04/11/2020)]() &#8592; Current
+- [v1.1.0 (04/11/2020)](dropbox) &#8592; Current
 - v1.0.2 (02/11/2020)
 - v1.0.1 (01/11/2020)
 - v1.0.0 (31/10/2020)
