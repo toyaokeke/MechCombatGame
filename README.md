@@ -2,8 +2,8 @@
 
 [![License](https://img.shields.io/github/license/toyaokeke/MechCombatGame)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/toyaokeke/MechCombatGame)](https://github.com/toyaokeke/MechCombatGame/issues)
-[![Built with](https://img.shields.io/badge/built%20with-ue4-blue)](https://www.unrealengine.com/en-US/)
-[![Version](https://img.shields.io/badge/version-1.0.2-yellowgreen)](https://www.dropbox.com/s/bga6aiwweedzfqj/MechCombatGame_v1.0.2_MacOS.zip?dl=0)
+[![Built with](https://img.shields.io/badge/built%20with-ue4.25.3-blue)](https://www.unrealengine.com/en-US/)
+[![Version](https://img.shields.io/badge/version-1.1.0-yellowgreen)](https://www.dropbox.com/s/bga6aiwweedzfqj/MechCombatGame_v1.0.2_MacOS.zip?dl=0)
 
 # Table of Contents
 
@@ -236,6 +236,8 @@ Please also check these [additoinal resources](docs/RESOURCES.md) for more.
 
 ## Version History
 
-- v1.0.2 (02/11/2020) &#8592; Current
+
+- [v1.0.2 (04/11/2020)]() &#8592; Current
+- v1.0.2 (02/11/2020)
 - v1.0.1 (01/11/2020)
 - v1.0.0 (31/10/2020)
