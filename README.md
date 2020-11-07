@@ -70,7 +70,7 @@ The main level where your player lives is a forest environment. It is an open wo
 
 ### Player Base
 
-The player base is your home inside the forest environment. In your player base, this is where you will be able to upgrade your character's base stats, special attacks, etc. 
+The player base is your home inside the forest environment. In your player base, this is where you will be able to upgrade your character's base stats, special attacks, etc.
 
 **WARNING:** Careful not to stay in your base for too long; if the spiders sense you are in there, they can attack and destroy your base!
 
