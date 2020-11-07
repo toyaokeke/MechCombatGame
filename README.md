@@ -88,6 +88,8 @@ The shop menu is where you can upgrade your character when you approach the work
 
 ![Shop Menu Reference](docs/img/Instructions/ShopMenuReference.png)
 
+**WARNING:** When resetting you player stats, keep in mind that you will only be refunded a _small amount_ of what you spent to upgrade your player
+
 ### Heads Up Display
 
 The heads up display (HUD) is where you will see your character's health, stamina, attack energy and other things. The full view of the HUD is shown below:
@@ -235,7 +237,6 @@ Thank you to [Dev Squad Academy](https://www.devsquadacademy.com/) for providing
 Please also check these [additoinal resources](docs/RESOURCES.md) for more.
 
 ## Version History
-
 
 - [v1.1.0 (04/11/2020)](https://www.dropbox.com/s/ap6p4r5pdxzeu1y/MechCombatGame_v1.1.0_MacOS.zip?dl=0) &#8592; Current
 - v1.0.2 (02/11/2020)
