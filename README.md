@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/toyaokeke/MechCombatGame)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/toyaokeke/MechCombatGame)](https://github.com/toyaokeke/MechCombatGame/issues)
 [![Built with](https://img.shields.io/badge/built%20with-ue4.25.3-blue)](https://www.unrealengine.com/en-US/)
-[![Version](https://img.shields.io/badge/version-1.1.0-yellowgreen)](https://www.dropbox.com/s/ap6p4r5pdxzeu1y/MechCombatGame_v1.1.0_MacOS.zip?dl=0)
+[![Version](https://img.shields.io/badge/version-1.1.1-yellowgreen)](https://www.dropbox.com/s/fn3r8o1oxf664tj/MechCombatGame_v1.1.1_MacOS.zip?dl=0)
 
 # Table of Contents
 
@@ -70,7 +70,7 @@ The main level where your player lives is a forest environment. It is an open wo
 
 ### Player Base
 
-The player base is your home inside the forest environment. In your player base, this is where you will be able to upgrade your character's base stats, special attacks, etc. 
+The player base is your home inside the forest environment. In your player base, this is where you will be able to upgrade your character's base stats, special attacks, etc.
 
 **WARNING:** Careful not to stay in your base for too long; if the spiders sense you are in there, they can attack and destroy your base!
 
@@ -240,7 +240,8 @@ Please also check these [additoinal resources](docs/RESOURCES.md) for more.
 
 ## Version History
 
-- [v1.1.0 (04/11/2020)](https://www.dropbox.com/s/ap6p4r5pdxzeu1y/MechCombatGame_v1.1.0_MacOS.zip?dl=0) &#8592; Current
+- [v1.1.1 (07/11/2020)](https://www.dropbox.com/s/fn3r8o1oxf664tj/MechCombatGame_v1.1.1_MacOS.zip?dl=0) &#8592; Current
+- v1.1.0 (04/11/2020)
 - v1.0.2 (02/11/2020)
 - v1.0.1 (01/11/2020)
 - v1.0.0 (31/10/2020)
