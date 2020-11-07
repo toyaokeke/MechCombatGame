@@ -44,7 +44,7 @@
 
 ## Introduction
 
-Welcome to my Mech Combat Game! This is my first attempt at game development using Epic Game's [Unreal Engine](https://www.unrealengine.com/en-US/). It is a simple wave-based action arcade game where you control a robot and destrot mechanical spiders. If you would like to test play this game, you can either follow the instructions for [Packaging the Game for Production](#packaging-the-game-for-production) if you have the Unreal Engine, or downloading the executable from my [Dropbox link](#version-history). If neither of those options worked, feel free to [create an issue](https://github.com/toyaokeke/MechCombatGame/issues) or [contact me directly](https://toyaokeke.github.io/#contact) for a copy of the game. I hope you enjoy playing! :smile:
+Welcome to my Mech Combat Game! This is my first attempt at game development using Epic Game's [Unreal Engine](https://www.unrealengine.com/en-US/). It is a simple wave-based action arcade game where you control a robot and destroy mechanical spiders. If you would like to test play this game, you can either follow the instructions for [Packaging the Game for Production](#packaging-the-game-for-production) if you have the Unreal Engine, or downloading the executable from my [Dropbox link](#version-history). If neither of those options worked, feel free to [create an issue](https://github.com/toyaokeke/MechCombatGame/issues) or [contact me directly](https://toyaokeke.github.io/#contact) for a copy of the game. I hope you enjoy playing! :smile:
 
 **NOTE:** Since I do not own a Windows machine, I cannot package the game for Windows users at this time. Therefore, the [Dropbox link](#version-history) can only be used by Mac users.
 
@@ -64,13 +64,15 @@ Welcome to my Mech Combat Game! This is my first attempt at game development usi
 
 ### Forest Environment
 
-The main level where game exist is currently a forest environment. It is an open world environment containing bushes, trees, logs, etc. Enemies will be spawned into the environment in waves and the player will roam the area and try to survive and kill each wave of enemies.
+The main level where your player lives is a forest environment. It is an open world environment containing bushes, trees, logs, etc. Enemies will be spawned into the environment in waves and the player will roam the area and try to survive and kill each wave.
 
 ![Forest Environment Reference](docs/img/Level1/ForestEnvironmentReference.png)
 
 ### Player Base
 
-The player base is your home inside the forest environment. In your player base, this is where you will be able to upgrade your character's base stats, special attacks, and other things. Careful not to stay here for too long; if the spiders sense you are in there, they can attack and destroy your base!
+The player base is your home inside the forest environment. In your player base, this is where you will be able to upgrade your character's base stats, special attacks, etc. 
+
+**WARNING:** Careful not to stay in your base for too long; if the spiders sense you are in there, they can attack and destroy your base!
 
 ![Player Base Reference](docs/img/Level1/PlayerBaseReference.png)
 
@@ -78,7 +80,7 @@ The player base is your home inside the forest environment. In your player base,
 
 ### Controls
 
-To game can be played with a mouse and keyboard. The different controls are shown below:
+The game can be played with a mouse and keyboard. The different controls are shown below:
 
 ![Player Controls Reference](docs/img/Instructions/PlayerControlsReference.png)
 
@@ -92,7 +94,7 @@ The shop menu is where you can upgrade your character when you approach the work
 
 ### Heads Up Display
 
-The heads up display (HUD) is where you will see your character's health, stamina, attack energy and other things. The full view of the HUD is shown below:
+The heads up display (HUD) is where you will see your character's health, stamina, attack energy, etc. The full view of the HUD is shown below:
 
 ![HUD Reference](docs/img/Instructions/HUDReference.png)
 
@@ -128,7 +130,7 @@ The other spider that your robo dude sees in its forest is the turret spider. Th
 
 ### Time Fragments
 
-Each time your robo dude kills a spider, they drop a shiny crystal called a time fragment. These fragments can be used to upgrade your robo dude's basic stats, attacks and other things.
+Each time your robo dude kills a spider, they drop a shiny crystal called a time fragment. These fragments can be used to upgrade your robo dude's basic stats, special attacks, etc.
 
 ![Time Fragment Reference](docs/img/Items/TimeFragmentReference.png)
 
@@ -142,7 +144,7 @@ When your robo dude performs a whirlwind attack, it will spin itself and swing i
 
 ### Helicopter Attack
 
-For the helicopter attack, your robo dude will rapidly spin its wrist while holding its hammer. This attack damages all enemies directly in front of the robo dude.
+For the helicopter attack, your robo dude will rapidly spin its wrist while holding its hammer. This attack damages all enemies in front of the robo dude.
 
 ![Helicopter Attack Reference](docs/gif/Abilities/HelicopterAttackReference.gif)
 
