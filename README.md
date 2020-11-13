@@ -40,14 +40,12 @@
 
 ## Announcements
 
-**November ___, 2020**
+**November 13, 2020**
 
 **_UPDATE:_** The Mech Combat is now packaged available on the following platforms:
 
 - Windows (64-bit)
 - MacOS
-- Linux
-- Linux (AArch64)
 
 Use the [Dropbox link](#version-history) to access and download the correct version for your platform. Enjoy! :smile:
 **November 2, 2020**
@@ -65,8 +63,6 @@ Welcome to my Mech Combat Game! This is my first attempt at game development usi
 - Windows (32-bit)
 - Windows (64-bit)
 - MacOS
-- Linux
-- Linux (AArch64)
 
 **IMPORTANT:** This is a desktop based game. It was not developed for gaming consoles or mobile devices. Attempting to play this game on unsupported devices will generate a warning from the game and may result in other unexpected errors.
 
