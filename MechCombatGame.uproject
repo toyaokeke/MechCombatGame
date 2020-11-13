@@ -8,6 +8,7 @@
 		"WindowsNoEditor",
 		"LinuxNoEditor",
 		"WindowsNoEditorWin32",
-		"LinuxAArch64NoEditor"
+		"LinuxAArch64NoEditor",
+		"AllDesktop"
 	]
 }
