@@ -61,7 +61,6 @@ Welcome to my Mech Combat Game! This is my first attempt at game development usi
 
 - Windows (32-bit)
 - Linux
-- Linux
 - Linux (AArch64)
 
 Please follow the instructions for [Packaging the Game for Production](#packaging-the-game-for-production) if you use any of these platforms. I apologize for the inconvenience.
