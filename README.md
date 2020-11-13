@@ -60,7 +60,6 @@ Welcome to my Mech Combat Game! This is my first attempt at game development usi
 
 ## Supported Platforms
 
-- Windows (32-bit)
 - Windows (64-bit)
 - MacOS
 

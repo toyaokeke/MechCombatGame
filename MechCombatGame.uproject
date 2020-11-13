@@ -6,9 +6,6 @@
 	"TargetPlatforms": [
 		"MacNoEditor",
 		"WindowsNoEditor",
-		"LinuxNoEditor",
-		"WindowsNoEditorWin32",
-		"LinuxAArch64NoEditor",
 		"AllDesktop"
 	]
 }
