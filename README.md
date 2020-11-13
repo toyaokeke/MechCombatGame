@@ -56,12 +56,24 @@ Use the [Dropbox link](#version-history) to access and download the correct vers
 
 Welcome to my Mech Combat Game! This is my first attempt at game development using Epic Game's [Unreal Engine](https://www.unrealengine.com/en-US/). It is a simple wave-based action arcade game where you control a robot and destroy mechanical spiders. If you would like to test play this game, you can either follow the instructions for [Packaging the Game for Production](#packaging-the-game-for-production) if you have the Unreal Engine, or downloading the executable from my [Dropbox link](#version-history). If neither of those options worked, feel free to [create an issue](https://github.com/toyaokeke/MechCombatGame/issues) or [contact me directly](https://toyaokeke.github.io/#contact) for a copy of the game. I hope you enjoy playing! :smile:
 
+**NOTE:** Unfortunately, I was unable to package this game for the following platforms:
+
+- Windows (32-bit)
+- Linux
+- Linux
+- Linux (AArch64)
+
+Please follow the instructions for [Packaging the Game for Production](#packaging-the-game-for-production) if you use any of these platforms. I apologize for the inconvenience.
+
 ![Main Menu Reference](docs/img/MainMenu/MainMenuReference.png)
 
 ## Supported Platforms
 
+- Windows (32-bit)
 - Windows (64-bit)
 - MacOS
+- Linux
+- Linux (AArch64)
 
 **IMPORTANT:** This is a desktop based game. It was not developed for gaming consoles or mobile devices. Attempting to play this game on unsupported devices will generate a warning from the game and may result in other unexpected errors.
 
