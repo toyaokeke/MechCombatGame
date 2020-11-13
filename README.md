@@ -48,6 +48,7 @@
 - MacOS
 
 Use the [Dropbox link](#version-history) to access and download the correct version for your platform. Enjoy! :smile:
+
 **November 2, 2020**
 
 **_UPDATE:_** When packaging the project, I noticed the content in the [Dropbox link](#version-history) cannot be executed on Windows. Therefore, when packaging this project, be advised that it will only package for your specific platform.
