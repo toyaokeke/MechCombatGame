@@ -51,11 +51,11 @@
 
 **November 2, 2020**
 
-**_UPDATE:_** When packaging the project, I noticed the content in the [available versions](#version-history) cannot be executed on Windows. Therefore, when packaging this project, be advised that it will only package for _your specific platform_.
+**_UPDATE:_** When packaging the project, I noticed the content in the [older versions](https://github.com/toyaokeke/MechCombatGame/releases) cannot be executed on Windows. Therefore, when packaging this project, be advised that it will only package for _your specific platform_.
 
 ## Introduction
 
-Welcome to my Mech Combat Game! This is my first attempt at game development using Epic Game's [Unreal Engine](https://www.unrealengine.com/en-US/). It is a simple wave-based action arcade game where you control a robot and destroy mechanical spiders. If you would like to test play this game, you can either follow the instructions for [Packaging the Game for Production](#packaging-the-game-for-production) if you have the Unreal Engine, or downloading the [latest available version](#version-history). If neither of those options worked, feel free to [create an issue](https://github.com/toyaokeke/MechCombatGame/issues) or [contact me directly](https://toyaokeke.github.io/#contact) for a copy of the game. I hope you enjoy playing! :smile:
+Welcome to my Mech Combat Game! This is my first attempt at game development using Epic Game's [Unreal Engine](https://www.unrealengine.com/en-US/). It is a simple wave-based action arcade game where you control a robot and destroy mechanical spiders. If you would like to test play this game, you can either follow the instructions for [Packaging the Game for Production](#packaging-the-game-for-production) if you have the Unreal Engine, or downloading the [latest available version](https://github.com/toyaokeke/MechCombatGame/releases). If neither of those options worked, feel free to [create an issue](https://github.com/toyaokeke/MechCombatGame/issues) or [contact me directly](https://toyaokeke.github.io/#contact) for a copy of the game. I hope you enjoy playing! :smile:
 
 **NOTE:** Unfortunately, I was unable to package this game for the following platforms:
 
@@ -258,7 +258,7 @@ Please also check these [additoinal resources](docs/RESOURCES.md) for more.
 ## Version History
 
 - [v1.1.1 (07/11/2020)](https://github.com/toyaokeke/MechCombatGame/releases/tag/v1.1.1) &#8592; Current
-- [v1.1.0 (04/11/2020)]()
-- [v1.0.2 (02/11/2020)]()
-- [v1.0.1 (01/11/2020)]()
-- [v1.0.0 (31/10/2020)]()
+- [v1.1.0 (04/11/2020)](https://github.com/toyaokeke/MechCombatGame/releases/tag/v1.1.0)
+- [v1.0.2 (02/11/2020)](https://github.com/toyaokeke/MechCombatGame/releases/tag/v1.0.2)
+- [v1.0.1 (01/11/2020)](https://github.com/toyaokeke/MechCombatGame/releases/tag/v1.0.1)
+- [v1.0.0 (31/10/2020)](https://github.com/toyaokeke/MechCombatGame/releases/tag/v1.0.0)
