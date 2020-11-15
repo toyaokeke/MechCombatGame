@@ -51,7 +51,7 @@
 
 **November 2, 2020**
 
-**_UPDATE:_** When packaging the project, I noticed the content in the [available versions](#version-history) cannot be executed on Windows. Therefore, when packaging this project, be advised that it will only package for your specific platform.
+**_UPDATE:_** When packaging the project, I noticed the content in the [available versions](#version-history) cannot be executed on Windows. Therefore, when packaging this project, be advised that it will only package for _your specific platform_.
 
 ## Introduction
 
