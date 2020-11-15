@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/toyaokeke/MechCombatGame)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/toyaokeke/MechCombatGame)](https://github.com/toyaokeke/MechCombatGame/issues)
 [![Built with](https://img.shields.io/badge/built%20with-ue4.25.3-blue)](https://www.unrealengine.com/en-US/)
-[![Version](https://img.shields.io/badge/version-1.1.1-yellowgreen)](https://www.dropbox.com/sh/5yb215kq1h6h7mz/AACS6DPZDtiI1z1uwJ-z2F8Oa?dl=0)
+[![Version](https://img.shields.io/badge/version-1.1.1-yellowgreen)](https://github.com/toyaokeke/MechCombatGame/releases)
 
 # Table of Contents
 
@@ -107,7 +107,7 @@ The shop menu is where you can upgrade your character when you approach the work
 
 ![Shop Menu Reference](docs/img/Instructions/ShopMenuReference.png)
 
-**WARNING:** When resetting you player stats, keep in mind that you will only be refunded a _small amount_ of what you spent to upgrade your player
+**WARNING:** When resetting your player stats, keep in mind that you will only be refunded a _small amount_ of what you spent to upgrade your player
 
 ### Heads Up Display
 
@@ -257,8 +257,8 @@ Please also check these [additoinal resources](docs/RESOURCES.md) for more.
 
 ## Version History
 
-- [v1.1.1 (07/11/2020)](https://www.dropbox.com/sh/5yb215kq1h6h7mz/AACS6DPZDtiI1z1uwJ-z2F8Oa?dl=0) &#8592; Current
-- v1.1.0 (04/11/2020)
-- v1.0.2 (02/11/2020)
-- v1.0.1 (01/11/2020)
-- v1.0.0 (31/10/2020)
+- [v1.1.1 (07/11/2020)](https://github.com/toyaokeke/MechCombatGame/releases/tag/v1.1.1) &#8592; Current
+- [v1.1.0 (04/11/2020)]()
+- [v1.0.2 (02/11/2020)]()
+- [v1.0.1 (01/11/2020)]()
+- [v1.0.0 (31/10/2020)]()
