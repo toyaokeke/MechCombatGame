@@ -47,7 +47,7 @@
 - Windows (64-bit)
 - MacOS
 
-[Download the latest version](#version-history) for your platform and run the executable file to start playing. Enjoy! :smile:
+[Download the latest version](https://github.com/toyaokeke/MechCombatGame/releases) for your platform and run the executable file to start playing. Enjoy! :smile:
 
 **November 2, 2020**
 
