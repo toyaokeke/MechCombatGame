@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/toyaokeke/MechCombatGame)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/toyaokeke/MechCombatGame)](https://github.com/toyaokeke/MechCombatGame/issues)
 [![Built with](https://img.shields.io/badge/built%20with-ue4.25.3-blue)](https://www.unrealengine.com/en-US/)
-[![Version](https://img.shields.io/badge/version-1.1.1-yellowgreen)](https://www.dropbox.com/sh/5yb215kq1h6h7mz/AACS6DPZDtiI1z1uwJ-z2F8Oa?dl=0)
+[![Version](https://img.shields.io/badge/version-1.1.1-yellowgreen)](https://github.com/toyaokeke/MechCombatGame/releases)
 
 # Table of Contents
 
@@ -47,15 +47,15 @@
 - Windows (64-bit)
 - MacOS
 
-[Download the latest version](#version-history) for your platform and run the executable file to start playing. Enjoy! :smile:
+[Download the latest version](https://github.com/toyaokeke/MechCombatGame/releases) for your platform and run the executable file to start playing. Enjoy! :smile:
 
 **November 2, 2020**
 
-**_UPDATE:_** When packaging the project, I noticed the content in the [available versions](#version-history) cannot be executed on Windows. Therefore, when packaging this project, be advised that it will only package for _your specific platform_.
+**_UPDATE:_** When packaging the project, I noticed the content in the [older versions](https://github.com/toyaokeke/MechCombatGame/releases) cannot be executed on Windows. Therefore, when packaging this project, be advised that it will only package for _your specific platform_.
 
 ## Introduction
 
-Welcome to my Mech Combat Game! This is my first attempt at game development using Epic Game's [Unreal Engine](https://www.unrealengine.com/en-US/). It is a simple wave-based action arcade game where you control a robot and destroy mechanical spiders. If you would like to test play this game, you can either follow the instructions for [Packaging the Game for Production](#packaging-the-game-for-production) if you have the Unreal Engine, or downloading the [latest available version](#version-history). If neither of those options worked, feel free to [create an issue](https://github.com/toyaokeke/MechCombatGame/issues) or [contact me directly](https://toyaokeke.github.io/#contact) for a copy of the game. I hope you enjoy playing! :smile:
+Welcome to my Mech Combat Game! This is my first attempt at game development using Epic Game's [Unreal Engine](https://www.unrealengine.com/en-US/). It is a simple wave-based action arcade game where you control a robot and destroy mechanical spiders. If you would like to test play this game, you can either follow the instructions for [Packaging the Game for Production](#packaging-the-game-for-production) if you have the Unreal Engine, or downloading the [latest available version](https://github.com/toyaokeke/MechCombatGame/releases). If neither of those options worked, feel free to [create an issue](https://github.com/toyaokeke/MechCombatGame/issues) or [contact me directly](https://toyaokeke.github.io/#contact) for a copy of the game. I hope you enjoy playing! :smile:
 
 **NOTE:** Unfortunately, I was unable to package this game for the following platforms:
 
@@ -107,7 +107,7 @@ The shop menu is where you can upgrade your character when you approach the work
 
 ![Shop Menu Reference](docs/img/Instructions/ShopMenuReference.png)
 
-**WARNING:** When resetting you player stats, keep in mind that you will only be refunded a _small amount_ of what you spent to upgrade your player
+**WARNING:** When resetting your player stats, keep in mind that you will only be refunded a _small amount_ of what you spent to upgrade your player
 
 ### Heads Up Display
 
@@ -257,8 +257,8 @@ Please also check these [additoinal resources](docs/RESOURCES.md) for more.
 
 ## Version History
 
-- [v1.1.1 (07/11/2020)](https://www.dropbox.com/sh/5yb215kq1h6h7mz/AACS6DPZDtiI1z1uwJ-z2F8Oa?dl=0) &#8592; Current
-- v1.1.0 (04/11/2020)
-- v1.0.2 (02/11/2020)
-- v1.0.1 (01/11/2020)
-- v1.0.0 (31/10/2020)
+- [v1.1.1 (07/11/2020)](https://github.com/toyaokeke/MechCombatGame/releases/tag/v1.1.1) &#8592; Current
+- [v1.1.0 (04/11/2020)](https://github.com/toyaokeke/MechCombatGame/releases/tag/v1.1.0)
+- [v1.0.2 (02/11/2020)](https://github.com/toyaokeke/MechCombatGame/releases/tag/v1.0.2)
+- [v1.0.1 (01/11/2020)](https://github.com/toyaokeke/MechCombatGame/releases/tag/v1.0.1)
+- [v1.0.0 (31/10/2020)](https://github.com/toyaokeke/MechCombatGame/releases/tag/v1.0.0)
