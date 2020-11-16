@@ -3,7 +3,8 @@
 [![License](https://img.shields.io/github/license/toyaokeke/MechCombatGame)](LICENSE)
 [![Issues](https://img.shields.io/github/issues/toyaokeke/MechCombatGame)](https://github.com/toyaokeke/MechCombatGame/issues)
 [![Built with](https://img.shields.io/badge/built%20with-ue4.25.3-blue)](https://www.unrealengine.com/en-US/)
-[![Version](https://img.shields.io/badge/version-1.1.1-yellowgreen)](https://github.com/toyaokeke/MechCombatGame/releases)
+[![Release](https://img.shields.io/github/v/release/toyaokeke/MechCombatGame)](https://github.com/toyaokeke/MechCombatGame/releases)
+![Dowloads](https://img.shields.io/github/downloads/toyaokeke/MechCombatGame/total)
 
 # Table of Contents
 
