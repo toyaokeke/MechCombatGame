@@ -172,6 +172,8 @@ The leap attack is most lethal attack in the robo dude's arsenal. It will propel
 
 ![Leap Attack Reference](docs/gif/Abilities/LeapAttackReference.gif)
 
+---
+
 **IMPORTANT:** In order to run this project in development or package for production, you will need to create an Epic Games account and download the Unreal Engine on your machine. Please visit the [Unreal Engine](https://www.unrealengine.com/en-US/) for further instructions.
 
 **NOTE:** The instructions I am providing are based on MacOS. These steps may differ for Windows and Linux machines
